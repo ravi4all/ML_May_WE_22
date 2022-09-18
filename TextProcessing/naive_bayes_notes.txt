@@ -1,0 +1,26 @@
+Naive Bayes
+
+-Naive
+- movie really very nice love		Positive
+- really nice love movie very		Positive
+- love movie nice really very		Positive
+
+- Bayes
+  - probability of an event based on some prior knowledge that might be related to event
+- Conditional Probability
+
+Cards - 52 - find probability for king face card
+
+p(king) = 4/52
+p(face|king) = 1
+p(face) = 12/52
+
+
+
+
+
+
+
+
+
+
